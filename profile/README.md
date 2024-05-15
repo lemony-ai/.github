@@ -1,4 +1,9 @@
-## Welcome to Uptime Industries
+<p align="center">
+    <img src="https://github.com/uptime-industries/.github/assets/26281339/3de77560-48d7-4e7f-a46d-244cacda8583">
+</p>
+  
+
+## Welcome to Uptime Industries GitHub community
 We are Fueled by our community. Here you can find all of our open source projects (including software, documentation, and more), to make enterprise easy and accessible for all.
 
 
