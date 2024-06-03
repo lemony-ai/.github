@@ -16,7 +16,7 @@ Maintaining the repositories can be thankless please consider supporting. Thank 
 ## Other Links
 For more information, please visit the following channels to learn more about our tech support, product, services, community projects and more:
 
-- [Discord](discord.gg/uptime-industries)
+- [Discord](https://discord.gg/uptime-industries)
 - [YouTube](https://www.youtube.com/channel/UChD4brxh9TQUQpoq-9UX6yw)
 - [LinkedIn](https://www.linkedin.com/company/uptimeindustries)
 
