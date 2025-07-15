@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.lemony.ai/assets/logo.png" alt="Lemony.ai Logo" width="240">
+  <img src="../media/lemony-logo-white/lemony ai logo white.svg" alt="Lemony.ai Logo" width="240">
 </p>
 
 ## Welcome to the Lemony.ai GitHub
@@ -17,7 +17,6 @@ We’re driven by our community. Your contributions help make enterprise AI **si
 ## Learn More
 
 - 🌐 [Website](https://www.lemony.ai) – Explore LemonyOS and the Lemony Node
-- 💬 [Discord](https://discord.gg/lemonyai) – Join the community and get support
 - 🎥 [YouTube](https://www.youtube.com/@lemonyai) – Watch demos, tutorials, and product updates
 - 💼 [LinkedIn](https://www.linkedin.com/company/lemonyai) – Follow company news and insights
 
