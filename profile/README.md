@@ -1,32 +1,27 @@
 <p align="center">
-    <img src="https://github.com/uptime-industries/.github/assets/26281339/3de77560-48d7-4e7f-a46d-244cacda8583">
+  <img src="https://www.lemony.ai/assets/logo.png" alt="Lemony.ai Logo" width="240">
 </p>
-  
 
-## Welcome to Uptime Industries GitHub community
-We are Fueled by our community. Here you can find all of our open source projects (including software, documentation, and more), to make enterprise easy and accessible.
+## Welcome to the Lemony.ai GitHub
 
+Lemony.ai brings **secure, on‑premises AI solutions** to organizations that demand privacy, compliance, and control.
 
-Although the majority of our software is published here under open-source licenses, part of it is released under proprietary licenses. Please check the included `License.md` files for more details.
+Here, you’ll find open‑source components, documentation, and tools that power **LemonyOS**, the platform behind our local AI workflows and the stackable **Lemony Node** hardware.
 
+While most of our software is released under open-source licenses, some components are available under proprietary terms. Please check each repository’s `LICENSE.md` for details.
 
-Maintaining the repositories can be thankless please consider supporting. Thank you in advance for your contribution.
+We’re driven by our community. Your contributions help make enterprise AI **simpler, safer, and more accessible**—thank you for supporting the mission!
 
+---
 
-## Other Links
-For more information, please visit the following channels to learn more about our tech support, product, services, community projects and more:
+## Learn More
 
-- [Discord](https://discord.gg/uptime-industries)
-- [YouTube](https://www.youtube.com/channel/UChD4brxh9TQUQpoq-9UX6yw)
-- [LinkedIn](https://www.linkedin.com/company/uptimeindustries)
+- 🌐 [Website](https://www.lemony.ai) – Explore LemonyOS and the Lemony Node
+- 💬 [Discord](https://discord.gg/lemonyai) – Join the community and get support
+- 🎥 [YouTube](https://www.youtube.com/@lemonyai) – Watch demos, tutorials, and product updates
+- 💼 [LinkedIn](https://www.linkedin.com/company/lemonyai) – Follow company news and insights
 
-<!--
+---
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Build private AI with confidence.**  
+With Lemony.ai, your data stays yours.
