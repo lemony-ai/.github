@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemony-ai/CascadeFlow/main/.github/assets/Lemony_logo_bright.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemony-ai/CascadeFlow/main/.github/assets/Lemony_logo_dark.svg">
-  <img alt="Lemony Logo" src="https://raw.githubusercontent.com/lemony-ai/CascadeFlow/main/.github/assets/Lemony_logo_dark.svg" width="300">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemony-ai/.github/main/profile/assets/lemony_logo_white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemony-ai/.github/main/profile/assets/lemony_logo_black.svg">
+  <img alt="Lemony Logo" src="https://raw.githubusercontent.com/lemony-ai/.github/main/profile/assets/lemony_logo_black.svg" width="300">
 </picture>
 
 **One cascade. Hundreds of specialists.**
