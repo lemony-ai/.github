@@ -10,11 +10,11 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/cascadeflow?color=blue)](https://pypi.org/project/cascadeflow/)
 [![npm version](https://img.shields.io/npm/v/@cascadeflow/core?color=red)](https://www.npmjs.com/package/@cascadeflow/core)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://static.pepy.tech/badge/cascadeflow)](https://pepy.tech/project/cascadeflow)
 [![Documentation](https://img.shields.io/badge/docs-cascadeflow-blue)](https://github.com/lemony-ai/cascadeflow#readme)
 [![X Follow](https://img.shields.io/twitter/follow/SaschaBuehrle?style=social)](https://x.com/SaschaBuehrle)
 [![GitHub Stars](https://img.shields.io/github/stars/lemony-ai/cascadeflow?style=social)](https://github.com/lemony-ai/cascadeflow)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [**Documentation**](https://github.com/lemony-ai/cascadeflow#readme) • [**Follow @SaschaBuehrle on X**](https://x.com/SaschaBuehrle) • [**Community**](https://github.com/orgs/lemony-ai/discussions)
 
